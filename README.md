@@ -1,1 +1,3 @@
-exp 1-a:Image Resize - 
+exp 1-a : Image Resizing - Thia is the concept that involves changing the dimensions of an image while maintaining its quality and content. It is also known as image scaling which used to increase or reduce the size of an image. This can be done to fit the image in specific space.
+exp 1-b : Image Rotation - This operation involves rotating an image by a certain angle clockwise or otherwise, typically measured in dergee. We just need to define rotation matrix listing rotation point, degree of rotation and the scaling factor. The scale factor can be used to scale the image up or down. A scale factor of 1 will keep the image the same size, while a scale factor of 2 will double the size of the python image.
+exp 1-c : Image Translation - Image translation also known as image shifting. This opeeration involves moving an image by a certain amount in the x-axis and y-axis while maintaining its size and orientation. 
